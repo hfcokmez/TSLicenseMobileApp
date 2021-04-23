@@ -3,5 +3,5 @@ A mobile application written in React Native that reads the QR Codes of the prod
 It also informs the user whether the product is licensed or not.
 
 
-<img src="assets/ScanScreen.jpeg" width="250" height="500"><img src="assets/RepeatScan.jpeg" width="250" height="500">
-<img src="assets/LicensedScan.jpeg" width="250" height="500"><img src="assets/NotLicensedScan.jpeg" width="250" height="500">
+<img src="assets/ScanScreen.jpeg" width="200" height="400"><img src="assets/RepeatScan.jpeg" width="200" height="400">
+<img src="assets/LicensedScan.jpeg" width="200" height="400"><img src="assets/NotLicensedScan.jpeg" width="200" height="400">
